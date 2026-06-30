@@ -4,14 +4,6 @@ Aplikasi mobile marketplace untuk produk UMKM lokal Indonesia, dibangun dengan F
 
 ---
 
-## 📱 Screenshot
-
-| Login | Home | Detail | Cart | Checkout | Profil |
-|-------|------|--------|------|----------|--------|
-| *(tambahkan screenshot)* | *(tambahkan screenshot)* | *(tambahkan screenshot)* | *(tambahkan screenshot)* | *(tambahkan screenshot)* | *(tambahkan screenshot)* |
-
----
-
 ## 🏗️ Arsitektur
 
 Proyek ini menggunakan **Clean Architecture** dengan pola **MVVM + Provider**:
